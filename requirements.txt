@@ -1,0 +1,6 @@
+
+streamlit
+streamlit-plotly-events
+networkx
+pandas
+plotly
